@@ -15,7 +15,7 @@ function WeatherCard(props) {
         } else {
             return (
                 <Card variant="outlined" className="weatherCard">
-                    <img src={img} alt="картинка"></img>
+                    <img src={img} alt="Картинка"></img>
                 </Card>
             )
         }
