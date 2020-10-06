@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+   background-image: url('https://www.obltv.ru/upload/resize_cache/iblock/f56/690_6900_1/pogoda.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 
 code {

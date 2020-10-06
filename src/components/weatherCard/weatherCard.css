@@ -1,0 +1,19 @@
+.weatherCard {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .5) !important;
+    padding: 10px;
+    color: white !important;
+}
+
+.weatherCard img {
+    width: inherit;
+}
+
+.weatherCard .temp {
+    font-size: 5rem;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
